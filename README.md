@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://MindNest.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558
+**URL**: https://mind-nest-w7l2.vercel.app/
 
 ## How can I edit this code?
 
